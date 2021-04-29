@@ -1,5 +1,6 @@
-torch
-torchvision==0.2.2
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.6.0+cpu
+torchvision==0.7.0+cpu
 streamlit
 librosa
 numpy
