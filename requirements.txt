@@ -1,4 +1,4 @@
 torch
 torchvision
 librosa
-sndfile
+libsndfile1
