@@ -1,5 +1,5 @@
 torch
 torchvision
+librosa
 libasound2-dev
 libsndfile1-dev
-librosa
