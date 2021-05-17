@@ -1,3 +1,4 @@
 torch
 torchvision
+libsndfile1-dev
 librosa
